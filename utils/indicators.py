@@ -1,5 +1,5 @@
 # utils/indicators.py
-# Calculate indicators using only pandas (no pandas-ta)
+# Calculate technical indicators for trading strategy
 
 import pandas as pd
 
