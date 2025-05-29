@@ -1,12 +1,12 @@
 # utils/indicators.py
-# Calculate RSI, MA50, VolumeAvg using plain pandas
+# Calculate indicators using only pandas (no pandas-ta)
 
 import pandas as pd
 
 def calculate_indicators(df: pd.DataFrame) -> pd.DataFrame:
     df = df.copy()
 
-    # Simple RSI calculation (14-period)
+    # Calculate RSI (14-period)
     delta = df["Close"].diff()
     gain = delta.where(delta > 0, 0)
     loss = -delta.where(delta < 0, 0)
