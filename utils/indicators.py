@@ -1,32 +1,27 @@
 # utils/indicators.py
-# Calculate technical indicators for trading strategy
+# Calculate RSI, MA50, VolumeAvg using plain pandas
 
 import pandas as pd
-import pandas_ta as ta
 
 def calculate_indicators(df: pd.DataFrame) -> pd.DataFrame:
-    """
-    Adds RSI, MA50, and Volume Average to the price data.
-
-    Args:
-        df (pd.DataFrame): DataFrame containing OHLCV data.
-
-    Returns:
-        pd.DataFrame: Modified DataFrame with new indicators added.
-    """
-    # Ensure we have a copy to avoid modifying original
     df = df.copy()
 
-    # Calculate Relative Strength Index (RSI)
-    df["RSI"] = ta.rsi(df["Close"], length=14)
+    # Simple RSI calculation (14-period)
+    delta = df["Close"].diff()
+    gain = delta.where(delta > 0, 0)
+    loss = -delta.where(delta < 0, 0)
 
-    # Calculate 50-day Moving Average
+    avg_gain = gain.rolling(window=14).mean()
+    avg_loss = loss.rolling(window=14).mean()
+
+    rs = avg_gain / avg_loss
+    df["RSI"] = 100 - (100 / (1 + rs))
+
+    # 50-day moving average
     df["MA50"] = df["Close"].rolling(window=50).mean()
 
-    # Calculate 5-day average volume
+    # 5-day average volume
     df["VolumeAvg"] = df["Volume"].rolling(window=5).mean()
 
-    # Drop rows with NaNs (due to rolling calculations)
     df.dropna(inplace=True)
-
     return df
