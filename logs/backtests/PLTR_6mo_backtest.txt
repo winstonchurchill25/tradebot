@@ -1,0 +1,10 @@
+📊 Summary for PLTR (6mo):
+Total Trades: 1
+Total PnL: £14.43
+Final Balance: £1014.43
+
+📅 2025-05-21 | BUY £120.58 → SELL £122.32 | Return: 1.44%
+🧠 Buy triggered on 2025-05-21 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 53.59, MA50 = 100.9, Close = £120.58
+- Held full duration

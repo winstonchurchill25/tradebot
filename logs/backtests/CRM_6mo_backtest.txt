@@ -1,0 +1,10 @@
+📊 Summary for CRM (6mo):
+Total Trades: 1
+Total PnL: £-54.41
+Final Balance: £945.59
+
+📅 2025-05-21 | BUY £282.28 → SELL £266.92 | Return: -5.44%
+🧠 Buy triggered on 2025-05-21 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 64.36, MA50 = 270.04, Close = £282.28
+- Held full duration

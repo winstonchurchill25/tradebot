@@ -1,0 +1,10 @@
+📊 Summary for SHOP (6mo):
+Total Trades: 1
+Total PnL: £-83.43
+Final Balance: £916.57
+
+📅 2025-05-16 | BUY £110.75 → SELL £101.51 | Return: -8.34%
+🧠 Buy triggered on 2025-05-16 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 65.7, MA50 = 94.95, Close = £110.75
+- Held full duration

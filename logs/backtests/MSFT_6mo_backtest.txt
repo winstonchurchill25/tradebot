@@ -1,0 +1,6 @@
+📊 Summary for MSFT (6mo):
+Total Trades: 0
+Total PnL: £0
+Final Balance: £1000
+
+No trades matched the criteria in the backtest period.

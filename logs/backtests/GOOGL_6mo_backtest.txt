@@ -1,0 +1,28 @@
+📊 Summary for GOOGL (6mo):
+Total Trades: 4
+Total PnL: £103.69
+Final Balance: £1103.69
+
+📅 2025-05-14 | BUY £165.37 → SELL £168.56 | Return: 1.93%
+🧠 Buy triggered on 2025-05-14 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 57.4, MA50 = 159.49, Close = £165.37
+- Held full duration
+
+📅 2025-05-16 | BUY £166.19 → SELL £168.47 | Return: 1.37%
+🧠 Buy triggered on 2025-05-16 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 56.85, MA50 = 159.19, Close = £166.19
+- Held full duration
+
+📅 2025-05-20 | BUY £163.98 → SELL £172.36 | Return: 5.11%
+🧠 Buy triggered on 2025-05-20 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 56.19, MA50 = 159.01, Close = £163.98
+- Held full duration
+
+📅 2025-05-21 | BUY £168.56 → SELL £171.86 | Return: 1.96%
+🧠 Buy triggered on 2025-05-21 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 58.27, MA50 = 159.1, Close = £168.56
+- Held full duration

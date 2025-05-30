@@ -1,0 +1,154 @@
+📊 Summary for AMZN (1y):
+Total Trades: 25
+Total PnL: £482.08
+Final Balance: £1482.08
+
+📅 2024-11-01 | BUY £197.93 → SELL £208.18 | Return: 5.18%
+🧠 Buy triggered on 2024-11-01 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 65.0, MA50 = 184.79, Close = £197.93
+- Held full duration
+
+📅 2024-11-15 | BUY £202.61 → SELL £197.12 | Return: -2.71%
+🧠 Buy triggered on 2024-11-15 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 61.74, MA50 = 191.16, Close = £202.61
+- Held full duration
+
+📅 2024-11-21 | BUY £198.38 → SELL £207.89 | Return: 4.79%
+🧠 Buy triggered on 2024-11-21 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 50.46, MA50 = 192.78, Close = £198.38
+- Held full duration
+
+📅 2024-11-25 | BUY £201.45 → SELL £213.44 | Return: 5.95%
+🧠 Buy triggered on 2024-11-25 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 52.02, MA50 = 193.33, Close = £201.45
+- Held full duration
+
+📅 2024-11-26 | BUY £207.86 → SELL £218.16 | Return: 4.96%
+🧠 Buy triggered on 2024-11-26 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 50.82, MA50 = 193.75, Close = £207.86
+- Held full duration
+
+📅 2024-12-02 | BUY £210.71 → SELL £226.09 | Return: 7.3%
+🧠 Buy triggered on 2024-12-02 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 54.04, MA50 = 194.88, Close = £210.71
+- Held full duration
+
+📅 2024-12-04 | BUY £218.16 → SELL £230.26 | Return: 5.55%
+🧠 Buy triggered on 2024-12-04 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 54.22, MA50 = 195.75, Close = £218.16
+- Held full duration
+
+📅 2024-12-05 | BUY £220.55 → SELL £228.97 | Return: 3.82%
+🧠 Buy triggered on 2024-12-05 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 59.48, MA50 = 196.31, Close = £220.55
+- Held full duration
+
+📅 2024-12-18 | BUY £220.52 → SELL £227.05 | Return: 2.96%
+🧠 Buy triggered on 2024-12-18 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 65.03, MA50 = 203.95, Close = £220.52
+- Held full duration
+
+📅 2024-12-19 | BUY £223.29 → SELL £223.75 | Return: 0.21%
+🧠 Buy triggered on 2024-12-19 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 65.46, MA50 = 204.72, Close = £223.29
+- Held full duration
+
+📅 2024-12-20 | BUY £224.92 → SELL £221.3 | Return: -1.61%
+🧠 Buy triggered on 2024-12-20 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 64.62, MA50 = 205.48, Close = £224.92
+- Held full duration
+
+📅 2024-12-30 | BUY £221.3 → SELL £222.11 | Return: 0.37%
+🧠 Buy triggered on 2024-12-30 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 44.46, MA50 = 209.24, Close = £221.3
+- Held full duration
+
+📅 2024-12-31 | BUY £219.39 → SELL £222.13 | Return: 1.25%
+🧠 Buy triggered on 2024-12-31 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 43.59, MA50 = 209.85, Close = £219.39
+- Held full duration
+
+📅 2025-01-02 | BUY £220.22 → SELL £218.94 | Return: -0.58%
+🧠 Buy triggered on 2025-01-02 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 37.36, MA50 = 210.47, Close = £220.22
+- Held full duration
+
+📅 2025-01-06 | BUY £227.61 → SELL £217.76 | Return: -4.33%
+🧠 Buy triggered on 2025-01-06 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 50.17, MA50 = 212.02, Close = £227.61
+- Held full duration
+
+📅 2025-01-10 | BUY £218.94 → SELL £225.94 | Return: 3.2%
+🧠 Buy triggered on 2025-01-10 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 47.75, MA50 = 214.03, Close = £218.94
+- Held full duration
+
+📅 2025-01-15 | BUY £223.35 → SELL £235.42 | Return: 5.4%
+🧠 Buy triggered on 2025-01-15 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 47.71, MA50 = 215.82, Close = £223.35
+- Held full duration
+
+📅 2025-01-17 | BUY £225.94 → SELL £235.42 | Return: 4.2%
+🧠 Buy triggered on 2025-01-17 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 48.59, MA50 = 216.88, Close = £225.94
+- Held full duration
+
+📅 2025-01-21 | BUY £230.71 → SELL £238.15 | Return: 3.22%
+🧠 Buy triggered on 2025-01-21 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 58.53, MA50 = 217.5, Close = £230.71
+- Held full duration
+
+📅 2025-01-22 | BUY £235.01 → SELL £237.07 | Return: 0.88%
+🧠 Buy triggered on 2025-01-22 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 66.07, MA50 = 218.06, Close = £235.01
+- Held full duration
+
+📅 2025-01-27 | BUY £235.42 → SELL £237.42 | Return: 0.85%
+🧠 Buy triggered on 2025-01-27 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 64.98, MA50 = 219.67, Close = £235.42
+- Held full duration
+
+📅 2025-01-28 | BUY £238.15 → SELL £242.06 | Return: 1.64%
+🧠 Buy triggered on 2025-01-28 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 64.32, MA50 = 220.26, Close = £238.15
+- Held full duration
+
+📅 2025-02-05 | BUY £236.17 → SELL £228.93 | Return: -3.07%
+🧠 Buy triggered on 2025-02-05 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 66.58, MA50 = 224.01, Close = £236.17
+- Held full duration
+
+📅 2025-02-07 | BUY £229.15 → SELL £228.68 | Return: -0.21%
+🧠 Buy triggered on 2025-02-07 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 53.73, MA50 = 225.46, Close = £229.15
+- Held full duration
+
+📅 2025-05-15 | BUY £205.17 → SELL £203.1 | Return: -1.01%
+🧠 Buy triggered on 2025-05-15 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 66.82, MA50 = 190.36, Close = £205.17
+- Held full duration

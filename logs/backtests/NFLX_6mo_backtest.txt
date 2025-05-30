@@ -1,0 +1,16 @@
+📊 Summary for NFLX (6mo):
+Total Trades: 2
+Total PnL: £82.03
+Final Balance: £1082.03
+
+📅 2025-05-12 | BUY £1110.0 → SELL £1191.64 | Return: 7.35%
+🧠 Buy triggered on 2025-05-12 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 66.96, MA50 = 990.32, Close = £1110.0
+- Held full duration
+
+📅 2025-05-15 | BUY £1177.98 → SELL £1187.97 | Return: 0.85%
+🧠 Buy triggered on 2025-05-15 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 68.02, MA50 = 1000.92, Close = £1177.98
+- Held full duration

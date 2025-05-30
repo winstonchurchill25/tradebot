@@ -1,0 +1,16 @@
+📊 Summary for AAPL (6mo):
+Total Trades: 2
+Total PnL: £-85.23
+Final Balance: £914.77
+
+📅 2025-05-12 | BUY £210.79 → SELL £208.78 | Return: -0.95%
+🧠 Buy triggered on 2025-05-12 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 62.46, MA50 = 210.14, Close = £210.79
+- Held full duration
+
+📅 2025-05-16 | BUY £211.26 → SELL £195.27 | Return: -7.57%
+🧠 Buy triggered on 2025-05-16 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 51.8, MA50 = 208.23, Close = £211.26
+- Held full duration

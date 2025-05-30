@@ -1,0 +1,10 @@
+📊 Summary for AMZN (6mo):
+Total Trades: 1
+Total PnL: £-10.09
+Final Balance: £989.91
+
+📅 2025-05-15 | BUY £205.17 → SELL £203.1 | Return: -1.01%
+🧠 Buy triggered on 2025-05-15 because:
+- Sentiment: bullish, News: positive
+- Indicators: RSI = 66.82, MA50 = 190.36, Close = £205.17
+- Held full duration
